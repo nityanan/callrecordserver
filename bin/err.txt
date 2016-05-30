@@ -1,0 +1,3 @@
+Error at Mon May 30 2016 17:50:00 GMT+0530 (IST)
+TypeError: console is not a function
+-------------------------------------------
